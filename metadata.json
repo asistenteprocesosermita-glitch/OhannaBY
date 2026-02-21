@@ -1,0 +1,5 @@
+{
+  "name": "Chalet Ohanna Bay - Gestor de Reservas",
+  "description": "Sistema de gestión de reservas y calendario interactivo para el Chalet Ohanna Bay, con cálculo automático de tarifas y generación de mensajes para personal.",
+  "requestFramePermissions": []
+}
